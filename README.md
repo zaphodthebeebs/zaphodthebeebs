@@ -1,3 +1,5 @@
+<div align="center">
+
 ```ascii
  ███████╗ █████╗ ██████╗ ██╗  ██╗ ██████╗ ██████╗
  ╚══███╔╝██╔══██╗██╔══██╗██║  ██║██╔═══██╗██╔══██╗
@@ -6,6 +8,7 @@
  ███████╗██║  ██║██║     ██║  ██║╚██████╔╝██████╔╝
  ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚═════╝
 ```
+</div>
 
 <div align="center">
 
@@ -175,8 +178,6 @@ Fully homomorphic encryption for confidential DeFi transactions.
 ---
 
 <div align="center">
-
-![Matrix Rain]([https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzdkdXJ6eDIwOW01bmJyYzA0cHN3cmlqdnM0b3F0c2dheXptZmZoMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/v7WM6sLcnGIc8/giphy.gif))
 
 *"The code is the universe. The universe is the code."*
 
